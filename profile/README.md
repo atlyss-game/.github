@@ -21,7 +21,7 @@ ATLYSS is an immersive single-player/online RPG where players venture beyond the
 - Release Date: November 22, 2024
 - Price: $9.99
 - Platform: PC (Windows 10+)
-- [Steam Page](https://store.steampowered.com/app/atlyss) | [itch.io](https://kiseff.itch.io/atlyss)
+- [Steam Page](https://store.steampowered.com/app/2768430/ATLYSS/) | [itch.io](https://kiseff.itch.io/atlyss)
 
 ### 🤝 Join Our Community
 
