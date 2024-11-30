@@ -1,7 +1,6 @@
 # ATLYSS
 
-<!-- ![ATLYSS Logo](assets/logo.png)  -->
-<!-- You may want to add your game logo here -->
+![ATLYSS Logo](assets/header.webp) 
 
 ## Welcome to the World of ATLYSS
 
