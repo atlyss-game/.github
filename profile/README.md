@@ -22,7 +22,7 @@ ATLYSS is an immersive single-player/online RPG where players venture beyond the
 - Platform: PC (Windows 10+)
 - [Steam Page](https://store.steampowered.com/app/2768430/ATLYSS/) | [itch.io](https://kiseff.itch.io/atlyss)
 
-### 🤝 Join Our Community
+### 🤝 Join the Community
 
 - [Official Discord](https://discord.gg/atlyss)
 - [Wiki](https://atlyss.wiki.gg/wiki/ATLYSS_Wiki)
@@ -30,7 +30,7 @@ ATLYSS is an immersive single-player/online RPG where players venture beyond the
 
 ### 🎯 What's Next
 
-We're actively working on expanding ATLYSS with:
+The development team is actively working on expanding ATLYSS with:
 - Two additional over-world zones
 - Four new dungeons
 - Class advancement system
