@@ -1,6 +1,6 @@
 # ATLYSS
 
-![ATLYSS Logo](assets/header.webp) 
+![ATLYSS Logo](/assets/header.webp) 
 
 ## Welcome to the World of ATLYSS
 
