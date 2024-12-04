@@ -4,7 +4,7 @@
 
 ## Welcome to the World of ATLYSS
 
-ATLYSS is an immersive single-player/online RPG where players venture beyond the safe haven of Sanctum into lands corrupted by the mysterious Shattering. Developed by Kiseff and published by KisSoft, ATLYSS combines classic RPG elements with modern gameplay mechanics, all wrapped in a charming low-poly aesthetic.
+ATLYSS is an immersive single-player/online RPG where players venture beyond the safe haven of Sanctum into lands corrupted by the mysterious Shattering. Developed by Kiseff and published by KisSoft, ATLYSS combines classic RPG elements with modern gameplay mechanics, all wrapped in a charming low-poly aesthetic. For more information, visit [atlyss.net](https://atlyss.net).
 
 ### 🎮 Key Features
 
@@ -26,7 +26,7 @@ ATLYSS is an immersive single-player/online RPG where players venture beyond the
 
 - [Official Discord](https://discord.gg/atlyss)
 - [Wiki](https://atlyss.wiki.gg/wiki/ATLYSS_Wiki)
-- [Fanmade Website](https://atlyss.net/)
+<!-- - [Fanmade Website](https://atlyss.net/) -->
 
 ### 🎯 What's Next
 
